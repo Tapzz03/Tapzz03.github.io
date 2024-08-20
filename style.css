@@ -217,15 +217,15 @@ span{
     }
     21%,
     40%{
-        content: "Python Developer";
+        content: "Arsenal Supporter";
     }
     41%,
     60%{
-        content: "UX / UI Designer";
+        content: "Python Developer";
     }
     61%,
     80%{
-        content: "Arsenal Supporter ;)";
+        content: "UX / UI Designer";
     }
 }
 @keyframes typing{
